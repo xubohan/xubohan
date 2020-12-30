@@ -13,7 +13,7 @@
 <p align="center">👨‍💻 Enjoy coding, games and music</p>
 <p align="center">😄 A funny guy</p>
 <hr>
-<h3 align="center">Know a little about..</h3>
+<h3 align="center">Know a little about...</h3>
 
 <p align="center">
 <img src="https://simpleicons.org/icons/java.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/python.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/haskell.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/git.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/bootstrap.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/html5.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/css3.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/markdown.svg" width="7%">&nbsp&nbsp<img src="https://simpleicons.org/icons/ubuntu.svg" width="7%">
