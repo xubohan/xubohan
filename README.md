@@ -29,7 +29,7 @@
  
 <p align="center"><a href="https://github.com/xubohan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bohan-xu-b75619145/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="mailto:xubohan666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&count_private=true&hide_border=true&text_color=008891&icon_color=0f3057&title_color=00587a">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&count_private=true&hide_border=true&text_color=008891&icon_color=0f3057&title_color=00587a&line_height=32">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubohan&layout=compact&title_color=00587a&text_color=008891&hide_border=true">
 
 <!--
