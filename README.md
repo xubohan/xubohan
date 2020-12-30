@@ -5,6 +5,7 @@
 <h4 align="center">人生如寄,多忧何为 </h4>
 <hr border="none">
 <p align="center">I am Bohan, a student, study in the UK</p>
+<br>
 <p align="center">🌟 Hope to build an efficient, reliable, and easy to use application</p>
 <p align="center">🎓 AI&CS student in the University of Edinburgh</p>
 <p align="center">🔪 Know how to cook tasty Chinese cuisine</p>
@@ -23,16 +24,13 @@
 <p align="center">
 <img src="https://simpleicons.org/icons/gitlab.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/github.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/pandas.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/numpy.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/amd.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/atom.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/steam.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/epicgames.svg" width="7%" style="margin: 10px;">
 </p>
+<hr>
+<h3 align="center">Contact info</h3>
+ 
+<p align="center"><a href="https://github.com/xubohan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bohan-xu-b75619145/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="mailto:xubohan666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
 
- <h3>Contact info</h3>
- <center>
- <p><a href="https://github.com/xubohan" target="_blank" style="margin: 4%;"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/bohan-xu-b75619145/" target="_blank" style="margin: 4%;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:xubohan666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" style="margin: 4%;" /></a></p>
- </center>
-
-![Bohan's github stats](https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&count_private=true&hide_border=true&text_color=008891&icon_color=0f3057&title_color=00587a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xubohan&layout=compact&title_color=00587a&text_color=008891)
-
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&count_private=true&hide_border=true&text_color=008891&icon_color=0f3057&title_color=00587a">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubohan&layout=compact&title_color=00587a&text_color=008891&hide_border=true">
 
 <!--
 **xubohan/xubohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
