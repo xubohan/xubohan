@@ -1,25 +1,30 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 
-Hi, Bohan's here 👋
+<h1 align="center">Hi, Bohan's here 👋</h1>
 
-**<center>人生如寄,多忧何为 </center>**
-<br>
-**<center>Hi, I am Bohan, a student, study in the UK</center>**
-- 🌟 Hope to build an efficient, reliable, and easy to use application
-- 🎓 AI&CS student in the University of Edinburgh
-- 🔪 Know how to cook tasty Chinese cuisine
-- 📚 Addictive on learning new knowledge
-- 👨‍💻 Enjoy coding, games and music
-- 😄 A funny guy
+<h4 align="center">人生如寄,多忧何为 </h4>
+<hr border="none">
+<p align="center">I am Bohan, a student, study in the UK</p>
+<p align="center">🌟 Hope to build an efficient, reliable, and easy to use application</p>
+<p align="center">🎓 AI&CS student in the University of Edinburgh</p>
+<p align="center">🔪 Know how to cook tasty Chinese cuisine</p>
+<p align="center">📚 Addictive on learning new knowledge</p>
+<p align="center">👨‍💻 Enjoy coding, games and music</p>
+<p align="center">😄 A funny guy</p>
+<hr>
+<h3 align="center">Know a little about..</h3>
 
-### <center>Know a little about..</center>
+<p align="center">
 <img src="https://simpleicons.org/icons/java.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/python.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/haskell.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/git.svg" width="7%" style="margin: 10px;">
 <img src="https://simpleicons.org/icons/bootstrap.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/html5.svg" width="7%" style="margin: 10px;">
 <img src="https://simpleicons.org/icons/css3.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/markdown.svg" width="7%" style=" margin: 10px;"><img src="https://simpleicons.org/icons/ubuntu.svg" width="7%" style="margin: 10px;">
+</p>
 
+<p align="center">
 <img src="https://simpleicons.org/icons/gitlab.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/github.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/pandas.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/numpy.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/amd.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/atom.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/steam.svg" width="7%" style="margin: 10px;"><img src="https://simpleicons.org/icons/epicgames.svg" width="7%" style="margin: 10px;">
+</p>
 
- #### <center>Contact info</center>
+ <h3>Contact info</h3>
  <center>
  <p><a href="https://github.com/xubohan" target="_blank" style="margin: 4%;"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/bohan-xu-b75619145/" target="_blank" style="margin: 4%;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:xubohan666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" style="margin: 4%;" /></a></p>
  </center>
