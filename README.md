@@ -1,48 +1,59 @@
-<h1 align="center">Bohan Xu</h1>
-<p align="center"><strong>LLM Systems · RAG · Developer Tooling · Full-Stack Engineering</strong></p>
-<p align="center">Building practical, reliable, and easy-to-use software.</p>
-<p align="center"><em>人生如寄，多忧何为</em></p>
+<div align="center">
 
-## About Me
+# Bohan Xu
 
-- Focused on applied AI, retrieval systems, developer workflows, and product-oriented engineering.
-- Interested in turning research ideas into usable tools with clear validation, observability, and maintainable code.
-- Outside of coding: Chinese cooking, games, and music.
+**AI & CS @ University of Edinburgh**
 
-## Selected Repositories
+Interested in **LLM systems**, **RAG**, **developer tooling**, and **full-stack product engineering**.
 
-| Project | Description |
-| --- | --- |
-| [finance-platform](https://github.com/xubohan/finance-platform) | Market workspace for asset search, quote inspection, local OHLCV sync, reproducible backtests, observability, and Docker-first validation. |
-| [all-rag-techniques](https://github.com/xubohan/all-rag-techniques) | Hands-on implementations of RAG techniques, including chunking, reranking, query transformation, graph RAG, HyDE, CRAG, and more. |
-| [awesome-cursorrules](https://github.com/xubohan/awesome-cursorrules) | Curated `.cursorrules` resources for improving AI-assisted coding workflows in Cursor. |
-
-## Tech Stack
+I like building software that is practical, inspectable, and reliable.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://github.com/xubohan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/bohan-xu-b75619145/">LinkedIn</a> ·
+  <a href="mailto:xubohan666@gmail.com">Email</a>
 </p>
 
-## Connect
+</div>
 
-<p>
-  <a href="https://github.com/xubohan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bohan-xu-b75619145/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:xubohan666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
+
+## Focus
+
+- Building useful AI applications instead of demo-only prototypes
+- Improving retrieval, evaluation, and workflow reliability
+- Exploring tools that make developers faster without sacrificing quality
+
+## Selected Work
+
+### [finance-platform](https://github.com/xubohan/finance-platform)
+A market workspace with asset search, quote inspection, local OHLCV sync, reproducible backtests, observability, and Docker-first validation.
+
+### [all-rag-techniques](https://github.com/xubohan/all-rag-techniques)
+A hands-on collection of RAG implementations covering chunking, reranking, query transformation, graph RAG, HyDE, CRAG, and related retrieval patterns.
+
+### [awesome-cursorrules](https://github.com/xubohan/awesome-cursorrules)
+A curated collection of `.cursorrules` resources for improving AI-assisted coding workflows.
+
+## Stack
+
+`Python` `Java` `Haskell` `Git` `Linux` `Pandas` `NumPy` `HTML` `CSS`
+
+## Working Style
+
+- Prefer clarity over unnecessary complexity
+- Prefer reproducible workflows over one-off results
+- Prefer products people can actually use over impressive-looking demos
+
+## Beyond Code
+
+Chinese cooking, games, music, and continuous learning.
+
+> 人生如寄，多忧何为
 
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubohan&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xubohan&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubohan&layout=compact&hide_border=true" />
 </p>
